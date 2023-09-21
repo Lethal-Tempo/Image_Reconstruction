@@ -1,5 +1,5 @@
 # Image_Reconstruction
-Gradual image reconstruction using triangle shapes 
+Gradual image reconstruction using random triangle shapes in SFML.
 
 Sample result after 40 minutes:
 <br>
